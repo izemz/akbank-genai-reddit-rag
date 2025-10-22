@@ -1,0 +1,16 @@
+# Arayüz ve Veri İşleme
+streamlit
+pandas
+
+# Gemini Entegrasyonu (LLM)
+google-genai
+langchain-google-genai
+
+# LangChain RAG Bileşenleri
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Vektör Veritabanı
+chromadb

@@ -1,0 +1,19 @@
+# 1. Sanal Ortam (Virtual Environment)
+venv/
+
+# 2. API Anahtarları ve Gizli Ayarlar 
+.streamlit/
+.env
+
+# 3. Vektör Veritabanı 
+.chroma/
+chroma.sqlite3
+
+# 4. Genel Python Dosyaları
+__pycache__/
+*.pyc
+*.o
+
+# 5. Jupyter Notebook Checkpoint ve Çıktıları
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
